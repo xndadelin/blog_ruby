@@ -6,4 +6,3 @@ class Post < ApplicationRecord
   #     Post.destroy_all
   #   end
 end
-
