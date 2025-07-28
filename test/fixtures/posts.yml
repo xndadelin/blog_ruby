@@ -2,8 +2,8 @@
 
 one:
   title: MyString
-  body: MyText
+  body: This is a valid body.
 
 two:
   title: MyString
-  body: MyText
+  body: Another valid body.
